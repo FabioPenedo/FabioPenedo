@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">Olá 👋</h1>
+<h3 align="center">Busco ser um desenvolvedor Full Stack, atualmente sou aluno da B7WEB, onde estou amando estudar, dando os primeiros passos na programção.
+</h3>
+
+ - 🌱 Atualmente aprendendo HTML | CSS | 
+ - 📫 Como entrar em contato comigo: 
+ - Email : fabiopenedo21@gmail.com
+ - Instagram: [@sdpenedo](https://www.instagram.com/sdpenedo/
+ - Linkedin: [FabioPenedo](www.linkedin.com/in/FabioPenedo)
 
 <!--
 **FabioPenedo/FabioPenedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
