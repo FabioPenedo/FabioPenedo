@@ -5,7 +5,7 @@
  - 🌱 Atualmente aprendendo HTML | CSS | 
  - 📫 Como entrar em contato comigo: 
  - Email : fabiopenedo21@gmail.com
- - Instagram: [@sdpenedo](https://www.instagram.com/sdpenedo/
+ - Instagram: [@sdpenedo](https://www.instagram.com/sdpenedo/)
  - Linkedin: [FabioPenedo](www.linkedin.com/in/FabioPenedo)
 
 <!--
