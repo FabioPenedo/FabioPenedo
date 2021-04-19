@@ -6,7 +6,7 @@
  - 📫 Como entrar em contato comigo: 
  - Email : fabiopenedo21@gmail.com
  - Instagram: [@sdpenedo](https://www.instagram.com/sdpenedo/)
- - Linkedin: [FabioPenedo](www.linkedin.com/in/FabioPenedo)
+ - Linkedin: [FabioPenedo](https://www.linkedin.com/in/FabioPenedo/)
 
 <!--
 **FabioPenedo/FabioPenedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
