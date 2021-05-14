@@ -6,6 +6,13 @@
  - 📫 Como entrar em contato comigo: 
  - Email : fabiopenedo21@gmail.com
  - Linkedin: [FabioPenedo](https://www.linkedin.com/in/FabioPenedo/)
+ <hr>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioPenedo&show_icons=true&theme=radical&repo=github-readme-stats)
+ 
+ 
+ 
+ 
 
 <!--
 **FabioPenedo/FabioPenedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
