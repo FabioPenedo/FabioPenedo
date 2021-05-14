@@ -3,9 +3,9 @@
 
 Meu objetivo é dominar HTML, CSS e JavaScript em breve! Procuro melhorar minhas habilidades e a mim mesmo como desenvolvedor.
 
- - Email : fabiopenedo21@gmail.com
+<img alt="Note" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right"/>
 
-
+- <a href="mailto:fabiopenedo21@gmail.com"><img align="left" src="https://img.shields.io/badge/-Email-D14836.svg?logo=gmail&style=plastic&logoColor=white" alt="Email"/></a>
 - <a href="https://www.linkedin.com/in/FabioPenedo/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
 - <a href="https://www.instagram.com/sdpenedo/"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
@@ -13,7 +13,7 @@ Meu objetivo é dominar HTML, CSS e JavaScript em breve! Procuro melhorar minhas
 
 <hr>
 
-**🚀 Idiomas e ferramentas:**
+**👨🏻‍💻 Idiomas e ferramentas:**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
