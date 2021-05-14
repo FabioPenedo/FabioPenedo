@@ -8,7 +8,16 @@
  - Linkedin: [FabioPenedo](https://www.linkedin.com/in/FabioPenedo/)
  <hr>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioPenedo&show_icons=true&theme=radical&repo=github-readme-stats)
+<a href="https://github.com/FabioPenedo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FabioPenedo&show_icons=true&theme=merko" />
+</a>
+<a href="https://github.com/FabioPenedo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioPenedo&layout=compact&show_icons=true&theme=merko" />
+</a>
+
+
+
+
  
  
  
