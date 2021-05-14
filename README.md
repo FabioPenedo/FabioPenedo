@@ -3,7 +3,8 @@
 
 Meu objetivo é dominar HTML, CSS e JavaScript em breve! Procuro melhorar minhas habilidades e a mim mesmo como desenvolvedor.
 
-<img alt="Note" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right"/>
+<img alt="Note" src="https://github.com/FabioPenedo/image/blob/master/computer-illustration.png" align="right"/>
+
 
 - <a href="mailto:fabiopenedo21@gmail.com"><img align="left" src="https://img.shields.io/badge/-Email-D14836.svg?logo=gmail&style=plastic&logoColor=white" alt="Email"/></a>
 - <a href="https://www.linkedin.com/in/FabioPenedo/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
