@@ -28,14 +28,14 @@
 </div>
 
 <h2></h2>
-<div>
-      <a href="https://github.com/FabioPenedo">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=FabioPenedo&show_icons=true&theme=merko" />
-      </a>
-      <a href="https://github.com/FabioPenedo">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioPenedo&layout=compact&show_icons=true&theme=merko" />
-      </a>
-</div>
+
+<a href="https://github.com/FabioPenedo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FabioPenedo&show_icons=true&theme=merko" />
+</a>
+<a href="https://github.com/FabioPenedo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioPenedo&layout=compact&show_icons=true&theme=merko" />
+</a>
+
 
 
 
