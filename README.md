@@ -27,14 +27,15 @@
      <img src="https://user-images.githubusercontent.com/82732587/145264991-572ef10e-554f-407f-8cd3-e2b4c6d0b043.png" width="50" />
 </div>
 
-<hr>
-  
-<a href="https://github.com/FabioPenedo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FabioPenedo&show_icons=true&theme=merko" />
-</a>
-<a href="https://github.com/FabioPenedo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioPenedo&layout=compact&show_icons=true&theme=merko" />
-</a>
+<h2></h2>
+<div>
+      <a href="https://github.com/FabioPenedo">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=FabioPenedo&show_icons=true&theme=merko" />
+      </a>
+      <a href="https://github.com/FabioPenedo">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioPenedo&layout=compact&show_icons=true&theme=merko" />
+      </a>
+</div>
 
 
 
