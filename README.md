@@ -1,6 +1,7 @@
 <h1> Eae! Bem-vindo ao meu perfil. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="50px" alt="hi"></h1> 
 
-<img alt="Note" src="https://github.com/FabioPenedo/image/blob/master/computer-illustration.png" align="right"/>
+<img alt="Note" src="https://user-images.githubusercontent.com/82732587/146111649-7a090244-74e2-47ef-8e28-7d768f9a87f0.png" align="right"/>
+
 
 <div>
       <a href="https://www.linkedin.com/in/FabioPenedo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
