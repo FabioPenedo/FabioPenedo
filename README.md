@@ -30,7 +30,8 @@
 
 <h2></h2>
 
-<a href="https://github.com/FabioPenedo">
+
+<!--<a href="https://github.com/FabioPenedo">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FabioPenedo&show_icons=true&theme=merko" />
 </a>
 <a href="https://github.com/FabioPenedo">
