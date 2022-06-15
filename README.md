@@ -1,4 +1,4 @@
-<p align="left">Eae, Bem vindo!</p>
+<h3 align="left">Eae, Bem vindo!</h3>
 
 ###
 <div align="left">
@@ -17,7 +17,7 @@
 </div>
 
 ###
-<img align="right" height="270" src="https://user-images.githubusercontent.com/82732587/146111649-7a090244-74e2-47ef-8e28-7d768f9a87f0.png"  />
+<img align="right" height="300" src="https://user-images.githubusercontent.com/82732587/146111649-7a090244-74e2-47ef-8e28-7d768f9a87f0.png"  />
 
 ###
 <p align="left">Habilidades</p>
@@ -40,13 +40,6 @@
 </div>
 
 ###
-<img href="https://github.com/fabiopenedo/fabiopenedo/blob/output/snake.svg" alt="Snake animation" />
-
-###
-<img align="right" src="https://profile-counter.glitch.me/fabiopenedo/count.svg?"  />
-
-
-
  
  
 
