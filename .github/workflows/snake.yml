@@ -10,7 +10,7 @@ on:
     branches:
     - master
 
-  fork :
+  jobs :
     generate:
       runs-on: ubuntu-latest
 
@@ -18,7 +18,7 @@ on:
         - name: generate snake.svg
           uses: Platane/snk@master
           with:
-            github_user_name: ${{ github.repository_owner }}
+            github_user_name: $fabiopenedo
             outputs: dist/snake.svg
 
 
