@@ -1,52 +1,52 @@
-<h1> Eae! Bem-vindo ao meu perfil. 
+<p align="left">Eae, Bem vindo!</p>
 
-<img alt="Note" src="https://user-images.githubusercontent.com/82732587/146111649-7a090244-74e2-47ef-8e28-7d768f9a87f0.png" align="right"/>
-
-
-<div>
-      <a href="https://www.linkedin.com/in/FabioPenedo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-     <a href = "mailto:fabiopenedo21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a>
-</div> 
-  
-  
-<h2> Habilidades </h2>
-
-<div>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40"  />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"  />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"  />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" />
+###
+<div align="left">
+  <a href="https://www.linkedin.com/in/FabioPenedo/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:fabiopenedo21@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
-<h2> Aprender </h2>
-
-<div>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-     <img src="https://user-images.githubusercontent.com/82732587/145264991-572ef10e-554f-407f-8cd3-e2b4c6d0b043.png" width="40" />
+###
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=pt-br&hide_border=false&username=fabiopenedo" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=aura&hide_border=false&username=fabiopenedo" height="150" alt="languages graph"  />
 </div>
 
-<h2></h2>
+###
+<img align="right" height="270" src="https://user-images.githubusercontent.com/82732587/146111649-7a090244-74e2-47ef-8e28-7d768f9a87f0.png"  />
+
+###
+<p align="left">Habilidades</p>
+
+###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+</div>
+
+###
+<p align="left">Aprender</p>
+
+###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+</div>
+
+###
+<img href="https://github.com/fabiopenedo/fabiopenedo/blob/output/snake.svg" alt="Snake animation" />
+
+###
+<img align="right" src="https://profile-counter.glitch.me/fabiopenedo/count.svg?"  />
 
 
-<!--<a href="https://github.com/FabioPenedo">
 
-<h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px /> Aprender <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px /> </h2>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FabioPenedo&show_icons=true&theme=merko" />
-</a>
-<a href="https://github.com/FabioPenedo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioPenedo&layout=compact&show_icons=true&theme=merko" />
-</a>
-
-
-
-
-
- 
- 
  
  
 
