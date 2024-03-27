@@ -38,14 +38,15 @@ I am a programming student, with experience in C#, Nodejs, ReactJs, and constant
 -->
 
 <div align="center">
-	<h2> <strong> Status in my github</strong> </h2>
-	<img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=pt-br&hide_border=false&username=fabiopenedo" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=merko&hide_border=false&username=fabiopenedo" height="150" alt="languages graph"  />
-	<img src="https://user-images.githubusercontent.com/82732587/146111649-7a090244-74e2-47ef-8e28-7d768f9a87f0.png" width="50%" alt="pc" align="middle"/>
-	<br><br>
+<h2> <strong> Status in my github</strong> </h2>
+<img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=pt-br&hide_border=false&username=fabiopenedo" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=merko&hide_border=false&username=fabiopenedo" height="150" alt="languages graph"  />
+<img src="https://user-images.githubusercontent.com/82732587/146111649-7a090244-74e2-47ef-8e28-7d768f9a87f0.png" width="50%" alt="pc" align="middle"/>
+<br><br>
 </div>
  
  
+
 
 <!--
 **FabioPenedo/FabioPenedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
