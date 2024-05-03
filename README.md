@@ -9,7 +9,7 @@
 
 ###
 
-### 👨🏻‍💻 &nbsp;Sobre mim
+### 👨🏻‍💻 &nbsp;About me
 
 I am a programming student, with experience in C#, Nodejs, ReactJs, and constantly learning
 
