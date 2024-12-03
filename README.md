@@ -19,7 +19,7 @@ I am a programming student, with experience in C#, Nodejs, ReactJs, and constant
 	<h2> <strong> Learning </strong></h2>
 	<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,react,js,git,mongo,postgres" alt="habilidades que estou aprendendo - logos"> <br> 
 	<h2> <strong> I plan to learn </strong></h2>
-	<img src="https://skillicons.dev/icons?i=angular,docker,kotlin,bootstrap,firebase" alt="habilidades que planejo aprender - logos">
+	<img src="https://skillicons.dev/icons?i=docker,kotlin,bootstrap,firebase" alt="habilidades que planejo aprender - logos">
 </div>
 
 ###
