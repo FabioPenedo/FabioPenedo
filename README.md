@@ -11,15 +11,13 @@
 
 ### 👨🏻‍💻 &nbsp;About me
 
-I am a programming student, with experience in C#, Nodejs, ReactJs, and constantly learning
+I am a programming student, with experience in .NET, NestJs, NextJs, and constantly learning
 
 ###
 
 <div align="center">
 	<h2> <strong> Learning </strong></h2>
-	<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,react,js,git,mongo,postgres" alt="habilidades que estou aprendendo - logos"> <br> 
-	<h2> <strong> I plan to learn </strong></h2>
-	<img src="https://skillicons.dev/icons?i=docker,kotlin,bootstrap,firebase" alt="habilidades que planejo aprender - logos">
+	<img src="https://skillicons.dev/icons?i=cs,dotnet,js,nestjs,next,git,postgres,mysql,docker" alt="habilidades que estou aprendendo - logos"> <br> 
 </div>
 
 ###
