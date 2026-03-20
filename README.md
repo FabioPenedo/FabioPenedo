@@ -1,4 +1,4 @@
-# How's it going, I am Fábio Penedo! <img src="./imagens/wave.gif" width="30px">
+# Como vai? Meu nome é Fábio Penedo. <img src="./imagens/wave.gif" width="30px">
 
 ###
 
@@ -11,13 +11,13 @@
 
 ### 👨🏻‍💻 &nbsp;About me
 
-I am a programming student, with experience in .NET, NestJs, NextJs, and constantly learning
+Desenvolvedor Backend .NET • C#, ASP.NET Core, Docker, CI/CD • Sempre aprendendo e evoluindo.
 
 ###
 
 <div align="center">
 	<h2> <strong> Learning </strong></h2>
-	<img src="https://skillicons.dev/icons?i=cs,dotnet,js,nestjs,next,git,postgres,mysql,docker" alt="habilidades que estou aprendendo - logos"> <br> 
+	<img src="https://skillicons.dev/icons?i=cs,dotnet,js,nestjs,next,git,postgres,docker,sql" alt="habilidades que estou aprendendo - logos"> <br> 
 </div>
 
 ###
